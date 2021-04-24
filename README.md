@@ -14,9 +14,10 @@ Portfolio - Ephec - 3eme
 
 ### Preuves ?
 
-- Formation Python :
-- Formation Android :
-- Formation Bash :
-- Tutorat de mathématiques :
-- Cyber-security challenge : Madame Vroman ?
-- Projet Pymonitorapp :
+- Formation Python : [lien vers le pdf](https://github.com/momo007Dev/portfolio/blob/main/preuves/python.pdf)
+- Formation Android : [lien vers le pdf](https://github.com/momo007Dev/portfolio/blob/main/preuves/android.pdf)
+- Formation Bash : [lien vers le pdf](https://github.com/momo007Dev/portfolio/blob/main/preuves/bash.pdf)
+- Tutorat de mathématiques : [lien vers le document pdf](https://github.com/momo007Dev/portfolio/blob/main/preuves/tutorat-9h.pdf)
+- Cyber-security challenge : ***Madame Vroman ?***
+- Projet Pymonitorapp : [lien vers le repos github](https://github.com/momo007Dev/pyMonitorApp)
+
