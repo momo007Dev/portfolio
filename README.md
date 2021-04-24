@@ -1,7 +1,7 @@
 # Portfolio
-Portfolio - Ephec - 3eme
+Portfolio demandé par l'EPHEC, regroupant ***60 heures*** d'activité extra-scolaire ainsi qu'un ***site web***.
 
-60h à validé dont 30h de formation
+👷(Site web en construction...)🚧
 
 | Temps Validé | Tâche                                                      | Temps réels |
 | ------------ | ---------------------------------------------------------- | ----------- |
